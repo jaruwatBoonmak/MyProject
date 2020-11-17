@@ -2,7 +2,7 @@
 **:octocat: My name is Jaruwat Boonmak**<br/>
 **:octocat: I'm study in Computer Engineering KKU**<br/>
 **:octocat: Welcome to My Project**<br/>
-**:octocat: My facebook [Ball JB](https://www.facebook.com/BallJaruwat.2000) :link: **<br/>:link:
+**:octocat: My facebook [Ball JB](https://www.facebook.com/BallJaruwat.2000) :link:**<br/>:link:
 
 
 # My Skill
