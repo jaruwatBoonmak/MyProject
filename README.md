@@ -1,7 +1,7 @@
 # MyProject
-**My name is Jaruwat Boonmak
-I'm study in Computer Engineering KKU
-**Welcome to My Project
+**My name is Jaruwat Boonmak**
+**I'm study in Computer Engineering KKU**
+**Welcome to My Project**
 
 # My Skill
 - [x] Java :+1:
