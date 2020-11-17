@@ -3,7 +3,7 @@
 **:octocat: I'm study in Computer Engineering KKU**<br/>
 **:octocat: Welcome to My Project**<br/>
 **:octocat: My facebook [Ball JB](https://www.facebook.com/BallJaruwat.2000) :link:**<br/>
-
+**:octocat: My Email jaruwak@gmail.com  :email:**
 
 # My Skill
 - [x] Java :+1:
